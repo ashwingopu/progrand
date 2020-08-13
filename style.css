@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    margin: 0 30px;
+    font-size: 30px;
+ }
+ nav ul li{
+    margin: 0 20px;
+    padding: 30px;
+    height: 40px;
+    list-style: none;
+    color: peachpuff;
+ }
+ .freedom{
+     background-color: orange;
+     text-align: center;
+     padding: 30px;
+ }
+ .freedom img{
+     text-align: center;
+ }
+ .charka{
+     text-align: center;
+
+ }
+ .charka img{
+     padding: 30px;
+ }
+ .gandhi{
+     text-align: center;
+     background-color: green;
+ }
+ .gandhi img{
+     padding: 30px;
+ }
+ .to{
+     background-color: orange;
+ }
